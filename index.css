@@ -1,0 +1,162 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: #f0f2f5;
+}
+
+.textbox {
+    margin-top: 205px;
+    margin-left: 150px;
+}
+
+h1 {
+    font-size: 60px;
+    color: #1877f2 !important; 
+    color: #42b72a !important;
+    font-family: sans-serif;
+    margin-left: 37px;
+    margin-top: -10px;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.container {
+    width: 410px;
+    height: 330px;
+    margin-top: -197px;
+    margin-right: 200px;
+    float: right;
+    border-radius: 12px;
+    background-color: white;
+    width: 400px;
+    height: 338px;
+    text-align: center;
+    box-shadow: 1px 1px 5px gray;
+
+
+
+}
+
+.form {
+    float: right;
+    background-color: white;
+    margin-top: -10px;
+    padding: 20px;
+    border-radius: 8px;
+    height: 170px;
+    width: 90%;
+}
+
+.form input {
+    margin: 16px;
+    margin-left: -10px;
+    border-radius: 8px;
+    margin-right: -10px;
+    margin-top: -4px;
+    padding: 15px;
+    width: 332px;
+    background-color: white;
+    border: 2px solid #f0f2f5;
+
+    font-size: 17px;
+
+
+}
+
+.ger1 {
+    outline: none;
+}
+
+input[type=email]:focus {
+    border: 1px solid #1877f2;
+}
+
+
+.ger2{
+    outline: none;
+
+}
+
+input[type=password]:focus {
+    border: 1px solid #1877f2;
+     }
+
+button {
+    margin-top: -3px;
+    background-color: #1877f2;
+    padding: 10px;
+    margin-left: -4px;
+    width: 370px;
+    border-radius: 8px;
+    color: white;
+    font-family: sans-serif;
+    height: 50px;
+    border: 1px solid white;
+
+}
+
+.form button {
+    font-size: 23px;
+
+
+
+
+}
+
+p {
+    color: #1877f2;
+    background-color: white;
+    font-size: 17px;
+    margin-top: 12px;
+    margin-left: -12px;
+}
+
+p a {
+    color: #1877f2;
+    background-color: white;
+}
+
+.btn {
+    background-color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 10px;
+    font-size: 40px;
+
+}
+
+
+.btn button {
+    background-color: #42b72a;
+    width: 75%;
+    margin-left: -10px;
+    height: 50px;
+    margin-top: 65px;
+    font-size: 17px;
+
+
+}
+
+.new p {
+    background-color: #f0f2f5;
+    margin-top: 50px;
+    margin-left: -5px;
+    color: black;
+}
+
+.new b {
+    color: black;
+    font-size: 14px;
+}
+
+hr {
+    border: 1px solid #f0f2f5;
+}
